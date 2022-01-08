@@ -1,0 +1,36 @@
+{
+    "DefaultServerUrl": "",
+    "TestServerUrl": "http://localhost:8065",
+    "ShowErrorsList": false,
+    "EELearnURL": "about.mattermost.com",
+    "TeamEditionLearnURL": "mattermost.org",
+    "AboutTeamURL": "http://www.mattermost.org/",
+    "AboutEnterpriseURL": "https://mattermost.com/",
+    "PlatformNoticeURL": "https://mattermost.com/platform-notice-txt/",
+    "MobileNoticeURL": "https://about.mattermost.com/mobile-notice-txt/",
+    "RudderApiKey": "",
+
+    "AutoSelectServerUrl": false,
+    "CustomRequestHeaders": {},
+    "ExperimentalNormalizeMarkdownLinks": false,
+
+    "HideEmailLoginExperimental": false,
+    "HideGitLabLoginExperimental": false,
+    "HideLDAPLoginExperimental": false,
+    "HideSAMLLoginExperimental": false,
+    "HideO365LoginExperimental": false,
+
+    "SentryEnabled": false,
+    "ShowSentryDebugOptions": false,
+    "SentryDsnIos": "",
+    "SentryDsnAndroid": "",
+    "SentryOptions": {
+        "deactivateStacktraceMerging": true,
+        "autoBreadcrumbs": {
+            "xhr": false,
+            "console": true
+        }
+    },
+    
+    "ShowPerformanceMarkers": false
+}

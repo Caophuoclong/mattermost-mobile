@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "163931633399",
+        "project_id": "mattermostgcalls",
+        "storage_bucket": "mattermostgcalls.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:163931633399:android:c479c87770395fe99a45f2",
+                "android_client_info": {
+                    "package_name": "gcalls.mattermost"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "163931633399-njh7fpkoo79u2cdadtfbnr2gicpu5kg7.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBEMTE1A4I1Y-JPzWQvC7_ERBSpNoyL1fg"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "163931633399-njh7fpkoo79u2cdadtfbnr2gicpu5kg7.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
